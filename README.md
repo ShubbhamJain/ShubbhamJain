@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-shubbham.jain368@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubbham.jain368@gmail.com)](mailto:shubbham.jain368@gmail.com)
 <br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ShubbhamJain&margin-w=35&theme=nord&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=shubbhamjain&margin-w=35&theme=nord&no-bg=true&no-frame=true)
 
 ## 🔥 Technologies
 
-<a href="https://github.com/shubbham">
+<a href="https://github.com/shubbhamjain">
   <img height="200px" width="1200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubbhamjain&theme=dark" />
 </a>
 <br /><br />
 
-<a href="https://github.com/shubbham">
+<a href="https://github.com/shubbhamjain">
   <img height="200px" width="1200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubbhamjain&layout=compact&theme=vision-friendly-dark" />
 </a>
 <br /><br />
