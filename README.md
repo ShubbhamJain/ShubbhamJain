@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/ShubbhamJain/ShubbhamJain/main/Github%20banner.png" alt="stacks"/>
+<!--   <img src="https://raw.githubusercontent.com/ShubbhamJain/ShubbhamJain/main/Github%20banner.png" alt="stacks"/> -->
   <h2 align="center">Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/shubham.jain368/count.svg" />
   </h2>
