@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 </a>
 <br /><br />
 
-<a href="https://github.com/shubbhamjain">
+<!-- <a href="https://github.com/shubbhamjain">
   <img height="200px" width="1200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubbhamjain&layout=compact&theme=vision-friendly-dark" />
-</a>
+</a> -->
 <br /><br />
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
