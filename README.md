@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 <br />
 
-[![Website Badge](https://img.shields.io/badge/-Portfolio-teal?style=flat-square&url=)](http://shubbhamjain.herokuapp.com/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-teal?style=flat-square&url=)](https://shubbhamjain.netlify.app)
 [![Linkedin Badge](https://img.shields.io/badge/-ShubbhamJain-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubbhamjain/)](https://www.linkedin.com/in/shubbhamjain/)
 [![Twitter Badge](https://img.shields.io/badge/-Shubbham98-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Shubbham98)](https://twitter.com/Shubbham98)
 [![Gmail Badge](https://img.shields.io/badge/-shubbham.jain368@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubbham.jain368@gmail.com)](mailto:shubbham.jain368@gmail.com)
